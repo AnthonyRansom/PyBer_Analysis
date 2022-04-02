@@ -30,24 +30,24 @@ allocated to Urban city areas which is reducing the average fare per driver.
 
 ![Total Fare by City Type Graph](/analysis/PyBer_fare_summary.png)
 
-Looking at the provided graph shows the weekly fare by city type matches the summary table above with the Total fares for Urban areas showing the highest weekly fare total followed by Suburban and then Rural.
+Looking at the provided graph shows the weekly fare by city type matches the summary table above with the total fares for Urban areas showing the highest weekly fare total followed by Suburban and then Rural areas.
 The following has been determined from looking at the three graphs for the various city types:
- - The Urban graph indicates there is a slow increase in the fares starting from January, peaking at around the end of February with steep weekly fluctuations throughout the month of March.
+ - The Urban graph indicates there is a slow increase in weekly fares starting from January, peaking at around the end of February with steep weekly fluctuations throughout the month of March.
  
- - The Urban graph shows a steady decline in Fares starting the middle of April but there is not enough data to determine if the decline continues or is temporary.
+ - The Urban graph shows a steady decline in weekly fares starting the middle of April but there is not enough data to determine if the decline continues or is temporary.
  
- - The Suburban graph shows a similar increase in weekly fares starting from January similiar to the Urban graph.
+ - The Suburban graph shows a similar increase in weekly fares starting from January compared to the Urban graph.
  
  - The Suburban graph shows a steady weekly fare through the Months of January to April but there is large increase in weekly fares in the last weeks of March
-	aligning with the same noticable spike on the Rural and Urban graphs.
+	aligning with the same noticeable spike on the Rural and Urban graphs.
 	
- - The Rural graph shows some steep fluctuations for the fares for each week but the weekly fares are maintained within the 0$ to $500 bracket through the Months of January to April.
+ - The Rural graph shows some steep fluctuations for the fares for each week but the weekly fares are maintained within the 0$ to $500 bracket through the months of January to April.
 	
- - The graphs for the three city types indicate a consistent weekly fares income within a $1,000 range for each city type
+ - The graphs for the three city types indicate a consistent weekly fares income within a $1,000 range for each city type.
 
 ## Summary
 
-The analysis from the graph indicates the City Types maintain a fairly consistent Fare income but there are some disparities between the various city types shown on the summary table.
+The analysis from the graph indicates the city types maintain a fairly consistent weekly fare income but there are some disparities between the various city types shown on the summary table.
 The below business cases will propose some solutions in order to resolve these disparities across the city types:
 
 ### Business Case 1
@@ -60,5 +60,5 @@ It may be beneficial to decrease the fare price in Rural and Suburban areas whic
 aligning the Total fare income and number of rides and drivers with the Urban city areas.
 
 ### Business Case 3
-Accoring to the graph data the weekly fares for Urban abd Suburban the month of January start with decreased weekly fares compared to the rest of the year.
-Advertising campaigns or promotional specials offers and discounts could be planned for the December and January periods in order to promote use of the PyBer service during these periods.
+According to the graph data the weekly fares for Urban and Suburban areas for the month of January start with decreased weekly fares compared to the months up to April.
+Advertising campaigns or promotional special offers and discounts could be planned for the December and January periods in order to promote use of the PyBer service during these periods.
