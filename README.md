@@ -17,7 +17,7 @@ business in the relevant city sectors.
 
 #### Review of Fare Summary
 
-![Summary Table]("/analysis/PyBer_summary.PNG")
+![Summary Table](/analysis/PyBer_summary.PNG)
 
 From the summary data table certain patterns have be noted:
  - The average fare per driver and average fare per ride increases in less populated areas such as Rural areas compared to more densely populated areas such as Urban areas
@@ -30,7 +30,7 @@ allocated to Urban city areas which is reducing the average fare per driver.
 
 #### Review of Weekly Fare by City Type Graph
 
-![Total Fare by City Type Graph]("/analysis/PyBer_fare_summary.png")
+![Total Fare by City Type Graph](/analysis/PyBer_fare_summary.png)
 
 Looking at the provided graph shows the weekely fare by city type matches the summary table above with the Total fares for Urban areas showing the highest Fares followed by Suburban and then Rural.
  - The Urban graph indicates there is a slow increase in the fares starting from January and peaking at around the end of February with weekly fluctuations throughout the month of March.
