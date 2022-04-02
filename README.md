@@ -30,7 +30,7 @@ allocated to Urban city areas which is reducing the average fare per driver.
 
 #### Review of Weekly Fare by City Type Graph
 
-![Total Fare by City Type Graph]("analysis\PyBer_fare_summary.PNG")
+![Total Fare by City Type Graph]("analysis\PyBer_fare_summary.png")
 
 Looking at the provided graph shows the weekely fare by city type matches the summary table above with the Total fares for Urban areas showing the highest Fares followed by Suburban and then Rural.
  - The Urban graph indicates there is a slow increase in the fares starting from January and peaking at around the end of February with weekly fluctuations throughout the month of March.
